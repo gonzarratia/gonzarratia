@@ -26,8 +26,8 @@ Busco iniciar mi carrera como **Data Analyst**, contribuyendo con análisis de d
 - Aprendizaje autodidacta
 
 ## 📬 ¿Cómo contactarme?
-- ✉️ Email: [tu-email@example.com](mailto:tu-email@example.com)
-- 💼 LinkedIn: [Tu perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil/)
+- ✉️ Email: [tu-email@example.com](mailto:gonzaloarratia76@gmail.com)
+- 💼 LinkedIn: [Tu perfil de LinkedIn](https://www.linkedin.com/in/gonzaloarratia)
 - 📊 Portafolio / Proyectos: *(Próximamente)*
 
 ---
