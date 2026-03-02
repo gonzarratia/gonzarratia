@@ -26,9 +26,13 @@ Busco iniciar mi carrera como **Data Analyst**, contribuyendo con análisis de d
 - Organización y atención al detalle
 - Aprendizaje autodidacta
 
-## 📬 ¿Cómo contactarme?
+## 📬 📫 Conectemos:
+Estoy en busca de mi primera oportunidad para aportar valor en proyectos de datos. Si buscas a alguien con capacidad de aprendizaje y compromiso:
+
 - ✉️ Email: [gonzaloarratia76@gmail.com](mailto:gonzaloarratia76@gmail.com)
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/gonzaloarratia)
+- 🚀 Mira mis proyectos destacados aquí abajo.
+
 
 ---
 
