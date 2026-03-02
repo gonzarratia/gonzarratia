@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Gonzalo
 
 ## 🙋‍♂️ ¿Quién soy?
-Soy Gonzalo, tengo 22 años. Estudiante de Ciencias de Datos e IA con enfoque en Data Analytics, capacitado en Python, SQL y Power BI para transformar datos en información estratégica. Mi formación previa en QA Manual me permite abordar los proyectos con una mirada crítica sobre la integridad de los procesos, asegurando que los análisis sean precisos y confiables. Aplico la curiosidad analítica y el pensamiento lógico para resolver problemas y crear visualizaciones que faciliten la toma de decisiones. Busco mi primera oportunidad en el sector IT para integrar mis habilidades técnicas y capacidad de trabajo en equipo, con el firme compromiso de aprender y aportar valor en entornos de análisis de datos.
+Tengo 22 años. Estudiante de Ciencias de Datos e IA con enfoque en Data Analytics, capacitado en Python, SQL y Power BI para transformar datos en información estratégica. Mi formación previa en QA Manual me permite abordar los proyectos con una mirada crítica sobre la integridad de los procesos, asegurando que los análisis sean precisos y confiables. Aplico la curiosidad analítica y el pensamiento lógico para resolver problemas y crear visualizaciones que faciliten la toma de decisiones. Busco mi primera oportunidad en el sector IT para integrar mis habilidades técnicas y capacidad de trabajo en equipo, con el firme compromiso de aprender y aportar valor en entornos de análisis de datos.
 
 ## 🛠️ ¿Qué hago actualmente?
 - Desarrollando proyectos personales de **Data Analytics**.
